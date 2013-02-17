@@ -3,7 +3,6 @@
 NikonRemote::NikonRemote( unsigned int ir_pin ) {
     this->ir_pin = ir_pin;
     pinMode( this->ir_pin, OUTPUT);
-
 }
 
 void 
@@ -22,7 +21,6 @@ NikonRemote::pulse_off( unsigned long duration ) {
     unsigned long stop = micros() + duration;
     while( micros() < stop );
 }
-
 
 void 
 NikonRemote::click() {

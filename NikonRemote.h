@@ -1,6 +1,6 @@
 // Arduino library to remotely trigger Nikon camera
 // Thanks to Michele Bighignoli for timing information (http://www.bigmike.it/ircontrol/)
-// and BENMCTEE for poor man's PWM implemntation logic (http://fritzing.org/projects/lightning-trigger-for-nikon-dslr-camera/)
+// and BENMCTEE for poor man's PWM logic (http://fritzing.org/projects/lightning-trigger-for-nikon-dslr-camera/)
 
 #ifndef NIKONREMOTE_H
 #define NIKONREMOTE_H
