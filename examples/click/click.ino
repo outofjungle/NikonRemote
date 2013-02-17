@@ -1,4 +1,4 @@
-#include "NikonRemote.h"
+#include <NikonRemote.h>
 
 int IR_PIN = 12; 
 
