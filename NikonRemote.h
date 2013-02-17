@@ -1,4 +1,3 @@
-
 // NikonRemote.h - Arduino library to remotely trigger Nikon camera
 // Thanks to Michele Bighignoli for timing information (http://www.bigmike.it/ircontrol/)
 // and BENMCTEE for poor man's PWM logic (http://fritzing.org/projects/lightning-trigger-for-nikon-dslr-camera/)
