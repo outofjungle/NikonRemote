@@ -4,8 +4,7 @@ int IR_PIN = 12;
 
 NikonRemote remote( IR_PIN );
 
-void setup() {}
-void loop() {
+void setup() {
     remote.click();
-    delay( 60 );
 }
+void loop() {}
