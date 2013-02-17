@@ -20,6 +20,7 @@ Library comes with a simple example `click` that gets added to the Arduino Examp
 
 To run the code, wire an IR LED to the arduino as shown in the wiring diagram and upload the sketch to the Arduino. To activate the remote, press and release the Arduino reset button.
 
-Wiring diagram:
+### Wiring diagram
+
 
 ![Screenshot 1](https://github.com/outofjungle/NikonRemote/raw/master/example_wiring.png)
